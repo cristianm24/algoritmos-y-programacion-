@@ -11,5 +11,8 @@ e=(p**3+q**4-2*(p**2))
 if(e>680):
     print("p y q satisfacen la expresion ")
 else:
+
     print("p y q no satisfacen la expresion")
+
+    print("py q no satisfacen la expresion")
         
